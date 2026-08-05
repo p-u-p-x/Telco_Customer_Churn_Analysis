@@ -13,11 +13,10 @@ This project implements a full **classification pipeline** for predicting custom
 ```text
 telco-churn-project/
 │
-├── Telco_Customer_Churn_Analysis.ipynb # Full analysis notebook (Colab ready)
+├── Telco_Customer_Churn_Analysis.ipynb 
 ├── report/
-│ └── Telco_Churn_Report.pdf # Short written report (2 to 4 pages)
-├── README.md # Project overview and instructions
-└── LICENSE # License information for the repository
+│ └── Telco_Churn_Report.pdf 
+└── README.md # Project overview and instructions
 ```
 ---
 
